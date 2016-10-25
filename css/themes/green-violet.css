@@ -11,7 +11,7 @@ Table of Content:
 07/ Our Collection
 08/ The Watch
 09/ Splt Columns
-10/ Reviews
+10/ Reviews#E8175D
 11/ FAQs
 12/ Tech Specs
 13/ Our Team
@@ -154,28 +154,28 @@ body.home header .navbar {
 
 /*=====The Product=====*/
 .feature-note {
-  color: #E8175D;
+  color: #444444;
 }
 
 .feature-note .indicator .plus-icon:before {
-  border-color: #E8175D;
+  border-color: #444444;
 }
 
 .feature-note .indicator .plus-icon:after {
-  background: #E8175D;
+  background: #444444;
 }
 
 .feature-note .indicator .plus-icon .plus {
-  background: #E8175D;
+  background: #444444;
   color: #fff;
 }
 
 .feature-note .feature-name:before {
-  background: #E8175D;
+  background: #444444;
 }
 
 .feature-note .feature-name:after {
-  background: #E8175D;
+  background: #444444;
 }
 
 /*=====How it Works=====*/

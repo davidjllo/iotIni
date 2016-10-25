@@ -52,12 +52,10 @@ body {
 section {
   background: #fff;
 }
-.navbar{
-  padding-top: 15px !important;
-}
+
 /*custom styles*/
 .logo{
-  margin-left: 65px !important;
+  margin-left: 100px !important;
 }
 .title{
   color : #E8175D !important;
@@ -822,16 +820,8 @@ textarea.form-control {
 
 .top-banner h2 {
   margin: 0 0 20px;
-  /*font: 600 79px/1 "Poppins", sans-serif;*/
-  font-family: 'Raleway', sans-serif;
-  font-size: 65px;
+  font: 600 79px/1 "Poppins", sans-serif;
   letter-spacing: -3px;
-  font-weight: 300;
-
-}
-.image-text h2{
- font-family: 'Raleway', sans-serif;
-  font-size: 26px !important;
 }
 
 @media (max-width: 1199px) {
@@ -1253,7 +1243,7 @@ header.video-bg {
 
 @media (max-width: 767px) {
   .the-product img {
-    max-width: 300px;
+    max-width: 200px;
   }
 }
 
@@ -1397,8 +1387,8 @@ header.video-bg {
 }
 
 .feature-note.right.top {
-  top: 50px;
-  right: 115px;
+  top: 130px;
+  right: 0px;
 }
 
 @media (max-width: 1199px) {
@@ -1535,8 +1525,8 @@ header.video-bg {
 }
 
 .feature-note.left.top {
-  top: -100px;
-  left: 93px;
+  top: 0px;
+  left: -120px;
 }
 
 @media (max-width: 1199px) {
@@ -1559,7 +1549,7 @@ header.video-bg {
 }
 
 .feature-note.left.top .feature-name {
-  margin-right: -66px;
+  margin-right: -47px;
   float: right;
   -webkit-transform: scaleY(0);
       -ms-transform: scaleY(0);
@@ -2179,7 +2169,7 @@ header.video-bg {
 }
 
 .faq h4 {
-  font: 500 20px/30px "Poppins", sans-serif;
+  font: 500 20px/1 "Poppins", sans-serif;
   margin: 0 0 8px;
 }
 
